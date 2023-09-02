@@ -1,0 +1,5 @@
+baseURL = 'http://ziyingzhang93.github.io/'
+languageCode = 'en-us'
+title = 'Ziying Zhang'
+BookSection = 'docs'
+theme = 'hugo-book'
