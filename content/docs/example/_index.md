@@ -8,7 +8,8 @@ title: "Curriculum vitae"
 Curriculum vitae
 ----------------
 
-Aug 28,2023
+Created on August 28, 2023
+Last updated on January 9, 2025
 
 ## Ziying Zhang
 
